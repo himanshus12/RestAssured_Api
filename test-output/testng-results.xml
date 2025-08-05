@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-04T01:27:23 IST" name="Default suite" finished-at="2025-08-04T01:27:30 IST" duration-ms="7800">
+    <groups>
+    </groups>
+    <test started-at="2025-08-04T01:27:23 IST" name="Default test" finished-at="2025-08-04T01:27:30 IST" duration-ms="7800">
+      <class name="api.testcase.LoginTestcase">
+        <test-method is-config="true" signature="getdata()[pri:0, instance:api.testcase.LoginTestcase@815b41f]" started-at="2025-08-04T01:27:23 IST" name="getdata" finished-at="2025-08-04T01:27:23 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method signature="login_testcase()[pri:1, instance:api.testcase.LoginTestcase@815b41f]" started-at="2025-08-04T01:27:23 IST" name="login_testcase" finished-at="2025-08-04T01:27:28 IST" duration-ms="5548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_testcase -->
+        <test-method signature="get_login_testcase()[pri:2, instance:api.testcase.LoginTestcase@815b41f]" started-at="2025-08-04T01:27:28 IST" name="get_login_testcase" finished-at="2025-08-04T01:27:30 IST" duration-ms="1714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_login_testcase -->
+        <test-method signature="login_failed_testcase()[pri:3, instance:api.testcase.LoginTestcase@815b41f]" started-at="2025-08-04T01:27:30 IST" name="login_failed_testcase" finished-at="2025-08-04T01:27:30 IST" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_failed_testcase -->
+      </class> <!-- api.testcase.LoginTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
